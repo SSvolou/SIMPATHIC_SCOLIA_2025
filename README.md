@@ -2,7 +2,7 @@
 Repository for mining disease-specific information with in-silico models aiming at drug re-purposing. Includes data, code and results. Developed for SCOLIA 2025.
 
 ## Link Prediction Tasks
-- **Drug-Diseease**
+- **Drug-Disease**
 - **Drug-Gene**
 - **Drug-Phenotype**
 
