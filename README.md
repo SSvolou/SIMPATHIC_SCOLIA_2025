@@ -16,7 +16,7 @@ For a full access to our KG, please contact us: fotis.aisopos@iit.demokritos.gr,
 
 ## Table of Contents
 - ./Data: the drug indication datasets per task.
-- ./Harvesting: the code we used to extract our disease-specific information from biomedical literature (PubMed, PMC).
+- ./Harvesting: the code we used to extract our disease-specific information from biomedical literature.
 - ./Extracted_Features: the extracted features based on our disease-specific Knowledge Graph.
 - ./Link_Prediction: the Python scripts we used to evaluate our approach and to generate the prioritized drug candidates lists per task.
 - ./Drug_Candidates: includes the proposed drug candidates lists per task.
