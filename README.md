@@ -11,7 +11,7 @@ Repository for mining disease-specific information with in-silico models aiming 
 - ./Harvesting:
 - ./Extracted_Features: the extracted features based on our disease-specific Knowledge Graph.
 - ./Link_Prediction: the Python scripts we used to evaluate our approach and to generate the prioritized drug candidates lists per task.
-- ./Results: includes the calculated evaluation metrics and the proposed drug candidates lists per task.
+- ./Drug_Candidates: includes the calculated evaluation metrics and the proposed drug candidates lists per task.
 
 ## Scholarly Data Retrieval
 In this work we are focusing on 9 rare neurological, neurometabolic and neuromuscular syndromes, namely:
