@@ -1,5 +1,5 @@
 # SIMPATHIC_SCOLIA_2025
-Repository for mining disease-specific information with in-silico models aiming at drug re-purposing. Includes data, code and results. Developed for SCOLIA 2025.
+Repository for mining disease-specific information with in-silico models aiming at drug re-purposing. Includes data, code and results. Developed in the framework of SCOLIA 2025.
 
 ## Knowledge Graph
 We provide a [sample](https://github.com/SSvolou/SIMPATHIC_SCOLIA_2025/blob/main/Knowledge%20Graph%20Sample.csv) of our Knowledge Graph of 293 triples, including various Syndromes/Entities. For each triple the label of node a and b are shown, along with the UMLS CUIs. If the second node is an Article, then UMLS CUI=null, and the journal name is provided in JOURNAL_B column.
