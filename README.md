@@ -14,11 +14,6 @@ Total Number of Graph Relations/Edges: 5587738
 ```
 For a full access to our KG, please contact us: fotis.aisopos@iit.demokritos.gr, ssvolou@iit.demokritos.gr
 
-## Link Prediction Tasks
-- **Drug-Disease**
-- **Drug-Gene**
-- **Drug-Phenotype**
-
 ## Table of Contents
 - ./Data: the drug indication datasets per task.
 - ./Harvesting: the code we used to extract our disease-specific information from biomedical literature (PubMed, PMC).
@@ -38,6 +33,11 @@ In this work we are focusing on 9 rare neurological, neurometabolic and neuromus
 - Zellweger Spectrum Disorders (ZSD)
 - Myotonic Dystrophy type 1 (DM1)
 - Congenital Myasthenic Syndrome (CMS)
+
+## Link Prediction Tasks
+- **Drug-Disease**
+- **Drug-Gene**
+- **Drug-Phenotype**
 
 ## Results
 | | Drug-Disease | Drug-Gene | Drug-Phenotype |
