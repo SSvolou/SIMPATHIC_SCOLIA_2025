@@ -1,6 +1,19 @@
 # SIMPATHIC_SCOLIA_2025
 Repository for mining disease-specific information with in-silico models aiming at drug re-purposing. Includes data, code and results. Developed for SCOLIA 2025.
 
+## Knowledge Graph
+We provide a sample of 293 triples, including various Syndromes/Entities. For each triple the label of node a and b are shown, along with the UMLS CUIs. If the second node is an Article, then UMLS CUI=null, and the journal name is provided in JOURNAL_B column.
+
+```
+Graph Format: neo4j v.3.5.23
+Total Number of Nodes: 214466
+Number of Different Entities: 179754
+Number of Articles: 34712
+Number of Relation Types: 33
+Total Number of Graph Relations/Edges: 5587738
+```
+For a full access to our KG, please contact us: fotis.aisopos@iit.demokritos.gr, ssvolou@iit.demokritos.gr
+
 ## Link Prediction Tasks
 - **Drug-Disease**
 - **Drug-Gene**
@@ -8,12 +21,12 @@ Repository for mining disease-specific information with in-silico models aiming 
 
 ## Table of Contents
 - ./Data: the drug indication datasets per task.
-- ./Harvesting:
+- ./Harvesting: the code we used to extract our disease-specific information from biomedical literature (PubMed, PMC).
 - ./Extracted_Features: the extracted features based on our disease-specific Knowledge Graph.
 - ./Link_Prediction: the Python scripts we used to evaluate our approach and to generate the prioritized drug candidates lists per task.
 - ./Drug_Candidates: includes the proposed drug candidates lists per task.
 
-## Scholarly Data Retrieval
+## Biomedical Data Retrieval
 In this work we are focusing on 9 rare neurological, neurometabolic and neuromuscular syndromes, namely:
 
 - Spinocerebellar Ataxia type 3 (SCA3)
