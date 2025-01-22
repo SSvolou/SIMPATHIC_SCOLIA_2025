@@ -12,7 +12,7 @@ Number of Articles: 34712
 Number of Relation Types: 33
 Total Number of Graph Relations/Edges: 5587738
 ```
-For a full access to our KG, please contact us: fotis.aisopos@iit.demokritos.gr, ssvolou@iit.demokritos.gr
+For a full access to our KG, please contact us: ssvolou@iit.demokritos.gr, fotis.aisopos@iit.demokritos.gr
 
 ## Table of Contents
 - ./Data: the drug indication datasets per task.
