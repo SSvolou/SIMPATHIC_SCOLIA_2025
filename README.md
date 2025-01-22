@@ -1,12 +1,16 @@
 # SIMPATHIC_SCOLIA_2025
-Repository for mining disease-specific information with in-silico models aiming at drug re-purposing.
+Repository for mining disease-specific information with in-silico models aiming at drug re-purposing. Includes data, code and results. Developed for SCOLIA 2025.
+
+## Link Prediction Tasks
+- **Drug-Diseease**
+- **Drug-Gene**
+- **Drug-Phenotype**
 
 ## Table of Contents
-- ./Data: the processed datasets that we used in our study.
-- ./Proposed models: all the models (Word2Vec and Machine Learning) we propose to predict unknown CPP sequences based on the task that is studied (CPP-Classification, Uptake-Efficiency and/or PMO-Delivery).
-- ./Notebooks: Jupyter notebooks that can be used to evaluate our proposed trained models.
-- ./Results: includes the calculated evaluation metrics and PCA plots for Validation and Test Datasets.
-- ./Custom Scripts: contains Python Scripts that we used to construct and evaluate our proposed models.
+- ./Data: the drug indication datasets per task.
+- ./Extracted_Features: the extracted features based on our disease-specific Knowledge Graph.
+- ./Link_Prediction: the Python scripts we used to evaluate our approach and to generate the prioritized drug candidates lists per task.
+- ./Results: includes the calculated evaluation metrics and the proposed drug candidates lists per task.
 
 ## Scholarly Data Retrieval
 In this work we are focusing on 9 rare neurological, neurometabolic and neuromuscular syndromes, namely:
@@ -27,3 +31,6 @@ In this work we are focusing on 9 rare neurological, neurometabolic and neuromus
 | **Precision**   | 0.497   | 0.730     | 0.579    |
 | **Recall**   | 0.626     | 0.680       | 0.157      |
 | **F1-Score**   | 0.549     | 0.698       | 0.246      |
+
+## Acknowledgments
+This work was funded by the SIMPATHIC project, in the context of European Union’s Horizon 2020 research and innovation programme under grant agreement No 101080249.
