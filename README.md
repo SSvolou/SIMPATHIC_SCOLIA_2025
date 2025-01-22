@@ -8,6 +8,7 @@ Repository for mining disease-specific information with in-silico models aiming 
 
 ## Table of Contents
 - ./Data: the drug indication datasets per task.
+- ./Harvesting:
 - ./Extracted_Features: the extracted features based on our disease-specific Knowledge Graph.
 - ./Link_Prediction: the Python scripts we used to evaluate our approach and to generate the prioritized drug candidates lists per task.
 - ./Results: includes the calculated evaluation metrics and the proposed drug candidates lists per task.
