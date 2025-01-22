@@ -1,0 +1,294 @@
+ENTITY_A,ENTITY_A_CUI,RELATION,ENTITY_B,JOURNAL_B,ENTITY_B_CUI_OR_ARTICLE_id
+ATXN3 gene,C1538301,PREVENTS,Toxic effect,null,C0600688
+Extraction,C0185115,PREVENTS,Urinary tract infection,null,C0042029
+polyglutamine,C0384782,PREVENTS,Toxic effect,null,C0600688
+Therapeutic procedure,C0087111,PREVENTS,Teratogenesis,null,C0232910
+Therapeutic procedure,C0087111,PREVENTS,Abnormal mental state,null,C0278061
+Therapeutic procedure,C0087111,PREVENTS,Brain Injuries,null,C0270611
+Therapeutic procedure,C0087111,PREVENTS,"Phenylketonuria, Maternal",null,C0085547
+Therapeutic procedure,C0087111,PREVENTS,Mental disorders,null,C0004936
+Therapeutic procedure,C0087111,PREVENTS,Mental Retardation,null,C0025362
+Therapeutic procedure,C0087111,PREVENTS,Malnutrition,null,C0162429
+Ophthalmic examination and evaluation,C0200149,TREATS,Ataxia,null,C0004134
+Transcranial Direct Current Stimulation,C3850024,TREATS,Ataxia,null,C0004134
+Cholinergic Agents,C0242893,TREATS,Ataxia,null,C0004134
+Surgical and medical procedures,C1948041,TREATS,Ataxia,null,C0004134
+reproductive guidance,C0849204,TREATS,Family,null,C0015576
+Prophylactic treatment,C0199176,TREATS,Family,null,C0015576
+Phenylalanine-free diet,C0457976,TREATS,Family,null,C0015576
+Physical Medical Procedure,C3274430,TREATS,Family,null,C0015576
+Reconstructive Surgical Procedures,C0524865,TREATS,Family,null,C0015576
+Phenylalanine,C0031453,TREATS,Family,null,C0015576
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Homo sapiens,null,C0086418
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Japanese race,null,C1556094
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Infant,null,C0021270
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Patients,null,C0030705
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Offspring,null,C0680063
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,glycosylation,null,C0017982
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Male child,null,C0870221
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Sibling,null,C0037047
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Child,null,C0008059
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Adult,null,C0001675
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Female child,null,C0870604
+Congenital disorder of glycosylation type 1A,C0349653,PROCESS_OF,Family,null,C0015576
+Congenital disorder of glycosylation type 1A,C0349653,COEXISTS_WITH,Osteopenia,null,C0029453
+Congenital disorder of glycosylation type 1A,C0349653,CAUSES,Disease,null,C0012634
+Congenital disorder of glycosylation type 1A,C0349653,CAUSES,Congenital Disorders,null,C0242354
+Congenital disorder of glycosylation type 1A,C0349653,ISA,Rare Diseases,null,C0678236
+Congenital disorder of glycosylation type 1A,C0349653,ISA,Syndrome,null,C0039082
+Congenital disorder of glycosylation type 1A,C0349653,ISA,Congenital Disorders,null,C0242354
+Congenital disorder of glycosylation type 1A,C0349653,ISA,Symptoms,null,C1457887
+Congenital disorder of glycosylation type 1A,C0349653,ISA,Metabolic Diseases,null,C0025517
+Congenital disorder of glycosylation type 1A,C0349653,ISA,Disease,null,C0012634
+Congenital disorder of glycosylation type 1A,C0349653,ISA,Hereditary Diseases,null,C0019247
+Congenital disorder of glycosylation type 1A,C0349653,AFFECTS,Neurological observations,null,C0422837
+Congenital disorder of glycosylation type 1A,C0349653,MENTIONED_IN,null,Jornal de pediatria,31677975
+Congenital disorder of glycosylation type 1A,C0349653,MENTIONED_IN,null,PloS one,29261720
+Congenital disorder of glycosylation type 1A,C0349653,MENTIONED_IN,null,Human molecular genetics,27053713
+Congenital disorder of glycosylation type 1A,C0349653,MENTIONED_IN,null,Orphanet journal of rare diseases,37858231
+Congenital disorder of glycosylation type 1A,C0349653,MENTIONED_IN,null,BMC pediatrics,34625039
+Congenital disorder of glycosylation type 1A,C0349653,MENTIONED_IN,null,Molecular biology of the cell,22956764
+Congenital disorder of glycosylation type 1A,C0349653,MENTIONED_IN,null,International journal of molecular sciences,30061496
+Zellweger Syndrome,C0043459,PROCESS_OF,Offspring,null,C0680063
+Zellweger Syndrome,C0043459,PROCESS_OF,Mus,null,C0026809
+Zellweger Syndrome,C0043459,PROCESS_OF,Child,null,C0008059
+Zellweger Syndrome,C0043459,PROCESS_OF,Patients,null,C0030705
+Zellweger Syndrome,C0043459,PROCESS_OF,Family,null,C0015576
+Zellweger Syndrome,C0043459,PROCESS_OF,Infant,null,C0021270
+Zellweger Syndrome,C0043459,PROCESS_OF,Homo sapiens,null,C0086418
+Zellweger Syndrome,C0043459,PROCESS_OF,Female child,null,C0870604
+Zellweger Syndrome,C0043459,PROCESS_OF,"Infant, Newborn",null,C0021289
+Zellweger Syndrome,C0043459,COEXISTS_WITH,Infant Death,null,C0549159
+Zellweger Syndrome,C0043459,COEXISTS_WITH,Abnormal neuronal migration,null,C1837231
+Zellweger Syndrome,C0043459,COEXISTS_WITH,Kabuki make-up syndrome,null,C0796004
+Zellweger Syndrome,C0043459,COEXISTS_WITH,Infantile Refsum Disease (disorder),null,C0282527
+Zellweger Syndrome,C0043459,COEXISTS_WITH,Disease,null,C0012634
+Zellweger Syndrome,C0043459,LOCATION_OF,Infantile Refsum Disease (disorder),null,C0282527
+Zellweger Syndrome,C0043459,LOCATION_OF,Peroxisomal Disorders,null,C0282528
+Zellweger Syndrome,C0043459,LOCATION_OF,"Adrenoleukodystrophy, Neonatal",null,C0282525
+Zellweger Syndrome,C0043459,LOCATION_OF,Disease,null,C0012634
+Zellweger Syndrome,C0043459,ISA,Congenital anomaly of central nervous system,null,C0151490
+Zellweger Syndrome,C0043459,ISA,Peroxisome biogenesis disorders,null,C1832200
+Zellweger Syndrome,C0043459,ISA,Peroxisomal Disorders,null,C0282528
+Zellweger Syndrome,C0043459,ISA,Symptoms,null,C1457887
+Zellweger Syndrome,C0043459,ISA,Infantile Refsum Disease (disorder),null,C0282527
+Zellweger Syndrome,C0043459,ISA,"Adrenoleukodystrophy, Neonatal",null,C0282525
+Zellweger Syndrome,C0043459,ISA,Disease,null,C0012634
+Zellweger Syndrome,C0043459,ISA,Signs and Symptoms,null,C0037088
+Zellweger Syndrome,C0043459,ISA,Autosomal recessive hereditary disorder,null,C0265388
+Zellweger Syndrome,C0043459,ISA,Syndrome,null,C0039082
+Zellweger Syndrome,C0043459,ISA,Diagnosis,null,C0011900
+Zellweger Syndrome,C0043459,ISA,Rare Diseases,null,C0678236
+Machado-Joseph Disease,C0024408,PROCESS_OF,Animals,null,C0003062
+Machado-Joseph Disease,C0024408,PROCESS_OF,C57BL/6 Mouse,null,C1521751
+Machado-Joseph Disease,C0024408,PROCESS_OF,community worker,null,C0009484
+Machado-Joseph Disease,C0024408,PROCESS_OF,"Mice, Knockout",null,C0206745
+Machado-Joseph Disease,C0024408,PROCESS_OF,Diptera,null,C0012578
+Machado-Joseph Disease,C0024408,PROCESS_OF,Transgenic Model,null,C1519606
+Machado-Joseph Disease,C0024408,PROCESS_OF,Primates,null,C0033147
+Machado-Joseph Disease,C0024408,PROCESS_OF,Gene Mutation,null,C0596611
+Machado-Joseph Disease,C0024408,PROCESS_OF,Descent,null,C0680043
+Machado-Joseph Disease,C0024408,PROCESS_OF,World,null,C2700280
+Machado-Joseph Disease,C0024408,PROCESS_OF,cohort,null,C0599755
+Machado-Joseph Disease,C0024408,PROCESS_OF,Patients,null,C0030705
+Machado-Joseph Disease,C0024408,PROCESS_OF,Participant,null,C0679646
+Machado-Joseph Disease,C0024408,PROCESS_OF,Family,null,C0015576
+Machado-Joseph Disease,C0024408,PROCESS_OF,Asians,null,C0078988
+Machado-Joseph Disease,C0024408,PROCESS_OF,Persons,null,C0027361
+Machado-Joseph Disease,C0024408,PROCESS_OF,Phasis,null,C1067936
+Machado-Joseph Disease,C0024408,PROCESS_OF,Zebrafish,null,C0043457
+Machado-Joseph Disease,C0024408,PROCESS_OF,Animal Model,null,C0599779
+Machado-Joseph Disease,C0024408,PROCESS_OF,member,null,C0680022
+Machado-Joseph Disease,C0024408,PROCESS_OF,Disease model,null,C0684309
+Machado-Joseph Disease,C0024408,PROCESS_OF,Australian aborigine,null,C0337948
+Machado-Joseph Disease,C0024408,PROCESS_OF,Control Groups,null,C0009932
+Machado-Joseph Disease,C0024408,PROCESS_OF,Mouse Model,null,C2986594
+Machado-Joseph Disease,C0024408,PROCESS_OF,"Mice, Transgenic",null,C0025936
+Machado-Joseph Disease,C0024408,PROCESS_OF,Portuguese population,null,C0032730
+Machado-Joseph Disease,C0024408,PROCESS_OF,Adult,null,C0001675
+Machado-Joseph Disease,C0024408,PROCESS_OF,Sibling,null,C0037047
+Machado-Joseph Disease,C0024408,PROCESS_OF,aborigines,null,C0935542
+Machado-Joseph Disease,C0024408,PROCESS_OF,Caucasoid Race,null,C0007457
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Infant,null,C0021270
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Family,null,C0015576
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Woman,null,C0043210
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Male child,null,C0870221
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,glycosylation,null,C0017982
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,"Infant, Newborn",null,C0021289
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Author,null,C3812881
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Meleagris gallopavo,null,C0325628
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Patients,null,C0030705
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Sister,null,C0337514
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Child,null,C0008059
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Cattle,null,C0007452
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Offspring,null,C0680063
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Homo sapiens,null,C0086418
+"Myasthenic Syndromes, Congenital",C0751882,PROCESS_OF,Sibling,null,C0037047
+"Myasthenic Syndromes, Congenital",C0751882,COEXISTS_WITH,Newborn (finding),null,C2239178
+"Myasthenic Syndromes, Congenital",C0751882,COEXISTS_WITH,Proximal muscle weakness,null,C0221629
+"Myasthenic Syndromes, Congenital",C0751882,COEXISTS_WITH,Paralysed,null,C0522224
+"Myasthenic Syndromes, Congenital",C0751882,COEXISTS_WITH,Slow channel syndrome,null,C0393934
+"Myasthenic Syndromes, Congenital",C0751882,COEXISTS_WITH,Syndrome,null,C0039082
+"Myasthenic Syndromes, Congenital",C0751882,CAUSES,Weakness,null,C3714552
+"Myasthenic Syndromes, Congenital",C0751882,CAUSES,Recurrent apneic attacks,null,C0795703
+"Myasthenic Syndromes, Congenital",C0751882,CAUSES,Challenge,null,C0805586
+"Myasthenic Syndromes, Congenital",C0751882,CAUSES,Sudden infant death syndrome,null,C0038644
+"Myasthenic Syndromes, Congenital",C0751882,ISA,Sign or Symptom,null,C3540840
+"Myasthenic Syndromes, Congenital",C0751882,ISA,Neuromuscular Diseases,null,C0027868
+"Myasthenic Syndromes, Congenital",C0751882,ISA,Rare Diseases,null,C0678236
+"Myasthenic Syndromes, Congenital",C0751882,ISA,Diagnosis,null,C0011900
+"Myasthenic Syndromes, Congenital",C0751882,ISA,Disease,null,C0012634
+"Myasthenic Syndromes, Congenital",C0751882,AFFECTS,neuromuscular transmission,null,C0260043
+Myotonic Dystrophy,C0027126,PROCESS_OF,"nuclear mRNA cis splicing, via spliceosome",null,C2610186
+Myotonic Dystrophy,C0027126,PROCESS_OF,"Mice, Knockout",null,C0206745
+Myotonic Dystrophy,C0027126,PROCESS_OF,cohort,null,C0599755
+Myotonic Dystrophy,C0027126,PROCESS_OF,"Infant, Premature",null,C0021294
+Myotonic Dystrophy,C0027126,PROCESS_OF,Brothers,null,C0337527
+Myotonic Dystrophy,C0027126,PROCESS_OF,Elderly (population group),null,C0001792
+Myotonic Dystrophy,C0027126,PROCESS_OF,Daughter,null,C0011011
+Myotonic Dystrophy,C0027126,PROCESS_OF,"Infant, Newborn",null,C0021289
+Myotonic Dystrophy,C0027126,PROCESS_OF,Patients,null,C0030705
+Myotonic Dystrophy,C0027126,PROCESS_OF,Descendent,null,C1707686
+Myotonic Dystrophy,C0027126,PROCESS_OF,Animal Disease Models,null,C0012644
+Myotonic Dystrophy,C0027126,PROCESS_OF,Respiratory physiology,null,C0035245
+Myotonic Dystrophy,C0027126,PROCESS_OF,Child,null,C0008059
+Myotonic Dystrophy,C0027126,PROCESS_OF,Author,null,C3812881
+Myotonic Dystrophy,C0027126,PROCESS_OF,Quail,null,C0034374
+Myotonic Dystrophy,C0027126,PROCESS_OF,Jews,null,C0022389
+Myotonic Dystrophy,C0027126,PROCESS_OF,Physicians,null,C0031831
+Myotonic Dystrophy,C0027126,PROCESS_OF,Japanese race,null,C1556094
+Myotonic Dystrophy,C0027126,PROCESS_OF,Persons,null,C0027361
+Myotonic Dystrophy,C0027126,PROCESS_OF,Subgroup A Nepoviruses,null,C1079230
+Myotonic Dystrophy,C0027126,PROCESS_OF,Male population group,null,C0025266
+Myotonic Dystrophy,C0027126,PROCESS_OF,Sister,null,C0337514
+Myotonic Dystrophy,C0027126,PROCESS_OF,House mice,null,C0025914
+Myotonic Dystrophy,C0027126,PROCESS_OF,Horse under one year old,null,C3669731
+Myotonic Dystrophy,C0027126,PROCESS_OF,Woman,null,C0043210
+Myotonic Dystrophy,C0027126,PROCESS_OF,Paternal grandfather,null,C1273522
+Myotonic Dystrophy,C0027126,PROCESS_OF,Participant,null,C0679646
+Myotonic Dystrophy,C0027126,PROCESS_OF,Offspring,null,C0680063
+Myotonic Dystrophy,C0027126,PROCESS_OF,Western European,null,C0239312
+Myotonic Dystrophy,C0027126,PROCESS_OF,Pancreatic secretory response,null,C0232793
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Journal of inherited metabolic disease,3930839
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Brain & development,23660475
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,BMC pediatrics,31202265
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Molecular genetics and metabolism,16275037
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,The Journal of pediatrics,7869202
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Pediatrics,3822637
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Molecular genetics and metabolism,23375473
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Movement disorders : official journal of the Movement Disorder Society,20818608
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Journal of inherited metabolic disease,21416196
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,European journal of pediatrics,3533549
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Jornal de pediatria,28801146
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Orphanet journal of rare diseases,32456656
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,MENTIONED_IN,null,Journal of pediatric endocrinology & metabolism : JPEM,34214291
+"Hyperphenylalaninemia, BH4-Deficient, B",C0268467,PROCESS_OF,Patients,null,C0030705
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,Family,null,C0015576
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,"Infant, Newborn",null,C0021289
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,Female child,null,C0870604
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,Child,null,C0008059
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,Sibling,null,C0037047
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,Male child,null,C0870221
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,Infant,null,C0021270
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,First cousin,null,C0337583
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,PROCESS_OF,Patients,null,C0030705
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,COEXISTS_WITH,Newborn (finding),null,C2239178
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,CAUSES,Recurrent seizures,null,C0748607
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,CAUSES,Epileptic encephalopathy,null,C0543888
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,CAUSES,Epilepsy,null,C0014544
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,CAUSES,Convulsions in the newborn,null,C0159020
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,CAUSES,Seizures,null,C0036572
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,CAUSES,Metabolism,null,C0025519
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,ISA,Disease,null,C0012634
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,ISA,Epilepsy,null,C0014544
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,AFFECTS,Sibling,null,C0037047
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,AFFECTS,Persons,null,C0027361
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,AFFECTS,Uncertainty,null,C0087130
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Genes,34440401
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Open biology,36128717
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Journal of inherited metabolic disease,25214427
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Journal of inherited metabolic disease,31222759
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Medical hypotheses,22647618
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Gene,23376216
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Rhode Island medical journal (2013),35211704
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Biochimie,32956737
+"EPILEPSY, PYRIDOXINE-DEPENDENT",C1849508,MENTIONED_IN,null,Brain & development,25123644
+Machado-Joseph Disease,C0024408,PROCESS_OF,Animals,null,C0003062
+Machado-Joseph Disease,C0024408,PROCESS_OF,C57BL/6 Mouse,null,C1521751
+Machado-Joseph Disease,C0024408,PROCESS_OF,community worker,null,C0009484
+Machado-Joseph Disease,C0024408,PROCESS_OF,"Mice, Knockout",null,C0206745
+Machado-Joseph Disease,C0024408,PROCESS_OF,Diptera,null,C0012578
+Machado-Joseph Disease,C0024408,PROCESS_OF,Transgenic Model,null,C1519606
+Machado-Joseph Disease,C0024408,PROCESS_OF,Primates,null,C0033147
+Machado-Joseph Disease,C0024408,PROCESS_OF,Gene Mutation,null,C0596611
+Machado-Joseph Disease,C0024408,PROCESS_OF,Descent,null,C0680043
+Machado-Joseph Disease,C0024408,PROCESS_OF,World,null,C2700280
+Machado-Joseph Disease,C0024408,PROCESS_OF,cohort,null,C0599755
+Machado-Joseph Disease,C0024408,PROCESS_OF,Patients,null,C0030705
+Machado-Joseph Disease,C0024408,PROCESS_OF,Participant,null,C0679646
+Machado-Joseph Disease,C0024408,PROCESS_OF,Family,null,C0015576
+Machado-Joseph Disease,C0024408,PROCESS_OF,Asians,null,C0078988
+Machado-Joseph Disease,C0024408,PROCESS_OF,Persons,null,C0027361
+Machado-Joseph Disease,C0024408,PROCESS_OF,Phasis,null,C1067936
+Machado-Joseph Disease,C0024408,PROCESS_OF,Zebrafish,null,C0043457
+Machado-Joseph Disease,C0024408,PROCESS_OF,Animal Model,null,C0599779
+Machado-Joseph Disease,C0024408,PROCESS_OF,member,null,C0680022
+Machado-Joseph Disease,C0024408,PROCESS_OF,Disease model,null,C0684309
+Machado-Joseph Disease,C0024408,PROCESS_OF,Australian aborigine,null,C0337948
+Machado-Joseph Disease,C0024408,PROCESS_OF,Control Groups,null,C0009932
+Machado-Joseph Disease,C0024408,PROCESS_OF,Mouse Model,null,C2986594
+Machado-Joseph Disease,C0024408,PROCESS_OF,"Mice, Transgenic",null,C0025936
+Machado-Joseph Disease,C0024408,PROCESS_OF,Portuguese population,null,C0032730
+Machado-Joseph Disease,C0024408,PROCESS_OF,Adult,null,C0001675
+Machado-Joseph Disease,C0024408,PROCESS_OF,Sibling,null,C0037047
+Machado-Joseph Disease,C0024408,PROCESS_OF,aborigines,null,C0935542
+Machado-Joseph Disease,C0024408,PROCESS_OF,Caucasoid Race,null,C0007457
+succinic semialdehyde dehydrogenase deficiency,C0268631,MENTIONED_IN,null,Cell biochemistry and biophysics,25417060
+succinic semialdehyde dehydrogenase deficiency,C0268631,MENTIONED_IN,null,Current opinion in neurology,15021235
+succinic semialdehyde dehydrogenase deficiency,C0268631,MENTIONED_IN,null,Journal of child neurology,12597057
+succinic semialdehyde dehydrogenase deficiency,C0268631,ISA,Disease,null,C0012634
+succinic semialdehyde dehydrogenase deficiency,C0268631,MENTIONED_IN,null,Journal of inherited metabolic disease,34245036
+succinic semialdehyde dehydrogenase deficiency,C0268631,MENTIONED_IN,null,Journal of child neurology,34015244
+succinic semialdehyde dehydrogenase deficiency,C0268631,MENTIONED_IN,null,Neuroradiology,35662359
+succinic semialdehyde dehydrogenase deficiency,C0268631,PROCESS_OF,Persons,null,C0027361
+succinic semialdehyde dehydrogenase deficiency,C0268631,PROCESS_OF,Patients,null,C0030705
+Leigh Disease,C0023264,PROCESS_OF,Participant,null,C0679646
+Leigh Disease,C0023264,PROCESS_OF,Cattle,null,C0007452
+Leigh Disease,C0023264,PROCESS_OF,American Staffordshire Terrier,null,C1706791
+Leigh Disease,C0023264,PROCESS_OF,Caregiver,null,C0085537
+Leigh Disease,C0023264,PROCESS_OF,mendelian inheritance,null,C0683231
+Leigh Disease,C0023264,PROCESS_OF,Older sister,null,C0337524
+Leigh Disease,C0023264,PROCESS_OF,Gene Mutation,null,C0596611
+Leigh Disease,C0023264,PROCESS_OF,Older brother,null,C0337537
+Leigh Disease,C0023264,PROCESS_OF,Offspring,null,C0680063
+Leigh Disease,C0023264,PROCESS_OF,cohort,null,C0599755
+Leigh Disease,C0023264,PROCESS_OF,Persons,null,C0027361
+Leigh Disease,C0023264,PROCESS_OF,Descent,null,C0680043
+Leigh Disease,C0023264,PROCESS_OF,Yorkshire terrier,null,C0324483
+Leigh Disease,C0023264,PROCESS_OF,Woman,null,C0043210
+Leigh Disease,C0023264,PROCESS_OF,Mitochondrial mutation,null,C2315666
+Leigh Disease,C0023264,PROCESS_OF,"Adolescents, Female",null,C0001588
+Leigh Disease,C0023264,PROCESS_OF,Infant,null,C0021270
+Leigh Disease,C0023264,PROCESS_OF,Child,null,C0008059
+Leigh Disease,C0023264,PROCESS_OF,Mus,null,C0026809
+Leigh Disease,C0023264,PROCESS_OF,Neuroradiologist,null,C2985415
+Leigh Disease,C0023264,PROCESS_OF,Family,null,C0015576
+Leigh Disease,C0023264,PROCESS_OF,Patients,null,C0030705
+Leigh Disease,C0023264,PROCESS_OF,Female child,null,C0870604
+Leigh Disease,C0023264,PROCESS_OF,Canis familiaris,null,C0012984
+Leigh Disease,C0023264,PROCESS_OF,Sibling,null,C0037047
+Leigh Disease,C0023264,PROCESS_OF,Age Cohort,null,C2348001
+Leigh Disease,C0023264,PROCESS_OF,"Infant, Premature",null,C0021294
+Leigh Disease,C0023264,PROCESS_OF,Male child,null,C0870221
+Leigh Disease,C0023264,PROCESS_OF,Adult,null,C0001675
+Leigh Disease,C0023264,PROCESS_OF,Author,null,C3812881
+Early Diagnosis,C0596473,ADMINISTERED_TO,Family,null,C0015576
+Genetic Counseling,C0017382,ADMINISTERED_TO,Family,null,C0015576
+MicroRNAs,C1101610,ADMINISTERED_TO,Family,null,C0015576
+Screening procedure,C0220908,ADMINISTERED_TO,Family,null,C0015576
+rapid diagnosis,C0597356,ADMINISTERED_TO,Family,null,C0015576
+Transferrin,C0040679,ADMINISTERED_TO,Family,null,C0015576
+Prenatal Diagnosis,C0033053,ADMINISTERED_TO,Family,null,C0015576
+Short Tandem Repeat,C1519302,ADMINISTERED_TO,Family,null,C0015576
+In Vivo NMR Spectroscopy,C0813150,ADMINISTERED_TO,Sibling,null,C0037047
+Leucovorin,C0023413,ADMINISTERED_TO,Sibling,null,C0037047
