@@ -1,0 +1,46 @@
+Drug Candidate,Gene,Syndrome,Probability
+Phenylalanine,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.9
+Levodopa,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.86
+Phenylalanine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.66
+Enfuvirtide,DMPK,Myotonic Dystrophy Type 1;(DM1),0.646600104
+Cholic Acid,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.64
+Lipoic acid,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.63
+Glycine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.62
+Risperidone,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.62
+Idebenone,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.61
+Varenicline,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.61
+Metoprolol,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.6
+L-Lysine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.6
+Clopidogrel,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.59
+Cholic Acid,SLC25A1,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.59
+Tyrosine,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.59
+Propranolol,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.59
+L-Glutamine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.59
+Levodopa,SLC25A1,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.58
+Tamsulosin,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.58
+L-Lysine,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.58
+Ticagrelor,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.57
+Propranolol,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.57
+D-glucose,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.560903955
+Tyrosine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.56
+Prasugrel,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.56
+Tromethamine,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.559663901
+Rosiglitazone,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.559663901
+Donepezil,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.55
+Valine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.55
+Pyridoxine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.55
+Levocarnitine,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.55
+Tacrine,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.540521575
+D-glucose,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.53
+Salbutamol,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.53
+Mirabegron,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.53
+Fluvoxamine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.53
+Metoprolol,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.53
+Enfuvirtide,NDUFS4,Mitochondrial Complex I Deficiency Nuclear Type 1;(Leigh Syndrome);(MC1DN1),0.525878338
+Acetylsalicylic acid,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.52
+Carbidopa,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.52
+Verinurad,PMM2,Congenital Disorder Glycosylation;(PMM2),0.501307964
+Mirabegron,SSADH (ALDH5A1),Congenital Neurotransmitter Defects;(CNT),0.5
+Ticagrelor,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.5
+Solifenacin,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.5
+Leucine,TEFM,Congenital Myasthenic Syndrome;Presynaptic 23;(CMS23),0.49

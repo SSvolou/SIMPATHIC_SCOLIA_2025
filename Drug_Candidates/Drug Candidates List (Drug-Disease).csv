@@ -1,0 +1,11 @@
+Drug Candidate,Disease,Probability
+Chenodeoxycholic acid,Congenital Neurotransmitter defects (CNT),0.62
+Riboflavin,Congenital Neurotransmitter defects (CNT),0.61
+Sapropterin,Congenital Neurotransmitter defects (CNT),0.55
+Phenylalanine,Congenital Myasthenic Syndrome (CMS),0.53
+Phenylalanine,Leigh syndrome (Leigh),0.52
+Phenylalanine,Glutaric Aciduria (GA1),0.52
+Lithium carbonate,Congenital Neurotransmitter defects (CNT),0.51
+Phenylalanine,Spinocerebellar Ataxia type 3,0.5
+Phenylalanine,Congenital Neurotransmitter defects (CNT),0.5
+Phenylalanine,Pyridoxine Dependent Epilepsy (PDE ),0.48
